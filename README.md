@@ -1,0 +1,2 @@
+# GameBot
+Bot made to resolve a particular table of colours from a game in Android. Can read a table of 7x7 squares (having the squares a determinated weight and height, found in the program itself) and resolve it, without having in considerations any kind of moves limit. Can check if you are in the main menu, if you are watching an ad, if you leveled up and if it's in game panel, and do something per action. This bot has no general value and it's used only for a concrete application, running in Bluestacks.
